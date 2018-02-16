@@ -1,0 +1,46 @@
+body {
+  font-family: Source Sans Pro, sans-serif; }
+
+.product_list {
+  border: 1px solid #284377;
+  margin: 2% 3%;
+  text-align: center;
+  color: #284377; }
+
+.product_list input {
+  float: left;
+  margin-top: 2%;
+  margin-left: 2%; }
+
+.btn {
+  padding: 10px;
+  margin-top: 20px; }
+
+#action {
+  margin-top: 20px; }
+
+.container-fluid {
+  width: 90%; }
+
+.full_width {
+  width: 90%; }
+
+.half_width {
+  width: 45%; }
+
+.float_left {
+  float: left; }
+
+.float_right {
+  float: right; }
+
+.type_furniture, .type_book {
+  display: none; }
+
+#success {
+  color: green; }
+
+#save {
+  margin-right: 10px; }
+
+/*# sourceMappingURL=styles.css.map */
